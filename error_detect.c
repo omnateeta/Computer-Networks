@@ -1,3 +1,4 @@
+//Write a program for error detecting code using CRC - CCIT(16-bits)
 #include<stdio.h>
 
 int gp[17] = {1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1}; // Generator polynomial
@@ -77,4 +78,5 @@ int main()
 
 	return 0;
 }
+
 
