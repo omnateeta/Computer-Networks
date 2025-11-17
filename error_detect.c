@@ -79,4 +79,11 @@ int main()
 	return 0;
 }
 
+Out put :
+	Enter the length of the data frame : 4
+	Enter the message bits (space seperated 0 1 1) : 1 0 1 0
+	Transmitted Frame : 10101010000101001010001010
+
+	0 No error detected.
+	
 
